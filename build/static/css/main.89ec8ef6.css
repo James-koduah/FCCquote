@@ -1,0 +1,2 @@
+*{margin:0;padding:0}body{color:#fff;justify-content:center;min-height:100vh}#quote-box,body{align-items:center;display:flex}#quote-box{flex-direction:column;min-height:30vh;width:50vw}#text{align-items:center;display:flex;justify-content:center;min-height:10vh;text-align:center}#author,#text{padding:2vw;width:80%}#author{margin-bottom:2vh;text-align:end}#boy{display:flex;padding-left:5vw;width:100%}#tweet-quote{width:45%}#new-quote{cursor:pointer;width:45%}
+/*# sourceMappingURL=main.89ec8ef6.css.map*/
